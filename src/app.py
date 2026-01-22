@@ -3,8 +3,11 @@ import pandas as pd
 import json
 from search import EvidenceRetriever
 from explain import generate_explanation
-
-st.set_page_config(page_title="Factchk:: Disinformation Shield", page_icon="🛡️")
+if "cache_cleared" not in st.session_state:
+    st.cache_resource.clear()
+    st.session_state["cache_cleared"] = True
+    print("🧹 System Cache Cleared!")
+st.set_page_config(page_title="FactChk:: Disinformation Shield", page_icon="🛡️")
 
 # ---  Load Data & Sidebar ---
 try:
@@ -27,7 +30,7 @@ except Exception as e:
     st.sidebar.error(f"Error loading data: {e}")
 
 # ---  Main UI ---
-st.title("🛡️ Factchk:: Disinformation Shield: Disinformation Shield")
+st.title("🛡️ FactChk:: Disinformation Shield: Disinformation Shield")
 st.markdown("Enter a claim below to cross-reference it with our verified knowledge base.")
 
 # Initialize Retrieval Engine (Cached)

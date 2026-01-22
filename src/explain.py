@@ -31,12 +31,10 @@ def generate_explanation(claim, retrieval_results):
         return (f"UNCERTAIN: We found similar concepts, but the match score ({score:.2f}) "
                 f"is too low to safely verify this claim.")
 
-    # --- THE GEN-AI UPGRADE ---
     if AI_AVAILABLE:
         try:
-            # Construct the Prompt for the AI
             prompt = f"""
-            You are FactChk, a professional disaster-response fact-checker.
+            You are FactChk, a professional fact checker.
             
             USER CLAIM: "{claim}"
             
