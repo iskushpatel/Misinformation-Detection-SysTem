@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "text": "The Himachal Pradesh dam is operating normally with no structural damage reported after recent rains.",
+    "source": "State Disaster Authority",
+    "category": "Exact Match",
+    "timestamp": "2025-07-15",
+    "verdict": "True",
+    "credibility_score": 0.98
+  },
+  {
+    "id": 2,
+    "text": "Tehri Dam levels are stable and all gates functioning as per routine maintenance checks.",
+    "source": "Central Water Commission",
+    "category": "Exact Match",
+    "timestamp": "2025-08-02",
+    "verdict": "True",
+    "credibility_score": 0.99
+  },
+  {
+    "id": 3,
+    "text": "No breach at Sardar Sarovar Dam; water release is controlled and safe.",
+    "source": "Narmada Control Authority",
+    "category": "Exact Match",
+    "timestamp": "2025-09-10",
+    "verdict": "True",
+    "credibility_score": 0.97
+  },
+  {
+    "id": 4,
+    "text": "Kundala Dam inspection confirms full operational integrity post-monsoon.",
+    "source": "KSEB Official",
+    "category": "Exact Match",
+    "timestamp": "2025-10-05",
+    "verdict": "True",
+    "credibility_score": 1.0
+  },
+  {
+    "id": 5,
+    "text": "Mullaperiyar Dam is structurally sound with normal water levels.",
+    "source": "Kerala Water Resources",
+    "category": "Exact Match",
+    "timestamp": "2025-11-20",
+    "verdict": "True",
+    "credibility_score": 0.96
+  },
+  {
+    "id": 6,
+    "text": "Fact Check: Rumors of Colorado Springs mayor Yemi Mobolade's FBI arrest are completely false, confirmed by his office.",
+    "source": "KRDO13 Investigates",
+    "category": "Direct Contradiction",
+    "timestamp": "2024-12-04",
+    "verdict": "False",
+    "credibility_score": 0.95
+  },
+  {
+    "id": 7,
+    "text": "Mayor denies lying to FBI; no arrest related to hate crime hoax investigation occurred.",
+    "source": "Colorado Politics",
+    "category": "Direct Contradiction",
+    "timestamp": "2024-12-06",
+    "verdict": "False",
+    "credibility_score": 0.94
+  },
+  {
+    "id": 8,
+    "text": "New Orleans mayor arrest rumors debunked; no charges filed for alleged conspiracy.",
+    "source": "BBC News",
+    "category": "Direct Contradiction",
+    "timestamp": "2025-08-17",
+    "verdict": "False",
+    "credibility_score": 0.98
+  },
+  {
+    "id": 9,
+    "text": "Local mayor not arrested; viral claims stem from unverified social media hoaxes.",
+    "source": "AFP Fact Check",
+    "category": "Direct Contradiction",
+    "timestamp": "2025-03-12",
+    "verdict": "False",
+    "credibility_score": 0.97
+  },
+  {
+    "id": 10,
+    "text": "No evidence supports mayor arrest by federal agents; official statement clarifies misinformation.",
+    "source": "Al Jazeera",
+    "category": "Direct Contradiction",
+    "timestamp": "2025-05-10",
+    "verdict": "False",
+    "credibility_score": 0.96
+  },
+  {
+    "id": 11,
+    "text": "2021 Uttarakhand flood video misrepresented as recent broken dam in 2024.",
+    "source": "AFP Fact Check",
+    "category": "Context Trap",
+    "timestamp": "2024-07-18",
+    "verdict": "Misleading",
+    "credibility_score": 0.98
+  },
+  {
+    "id": 12,
+    "text": "Old 2019 US Lake Dunlap spillway failure video falsely claimed as Indian dam collapse.",
+    "source": "India Today Fact Check",
+    "category": "Context Trap",
+    "timestamp": "2025-05-07",
+    "verdict": "Misleading", "credibility_score": 0.97
+  },
+  {
+    "id": 13,
+    "text": "1994 DRC cholera photo recirculated as current conflict image.",
+    "source": "AFP Fact Check",
+    "category": "Context Trap",
+    "timestamp": "2024-04-16",
+    "verdict": "Misleading",
+    "credibility_score": 0.99
+  },
+  {
+    "id": 14,
+    "text": "2016 Hurricane Matthew video manipulated and mislabeled as 2024 Hurricane Milton.",
+    "source": "Science Feedback",
+    "category": "Context Trap",
+    "timestamp": "2024-10-22",
+    "verdict": "Misleading",
+    "credibility_score": 0.95
+  },
+  {
+    "id": 15,
+    "text": "2015 Delhi building collapse photo falsely shared as 2025 earthquake damage.",
+    "source": "India Today Fact Check",
+    "category": "Context Trap",
+    "timestamp": "2025-02-17",
+    "verdict": "Misleading", 
+    "credibility_score": 0.96
+  },
+  {
+    "id": 16,
+    "text": "No official reports confirm water turns skin green; claim from anonymous blog lacks evidence.",
+    "source": "CDC Water Quality",
+    "category": "Trust Gap",
+    "timestamp": "2025-06-13",
+    "verdict": "Unverified",
+    "credibility_score": 0.4
+  },
+  {
+    "id": 17,
+    "text": "Blog rumor of green skin from water dismissed; source credibility low, no government confirmation.",
+    "source": "Official Health Dept",
+    "category": "Trust Gap",
+    "timestamp": "2026-01-02",
+    "verdict": "Unverified",
+    "credibility_score": 0.45
+  },
+  {
+    "id": 18,
+    "text": "Anonymous source claims on water contamination debunked by high-credibility audits.",
+    "source": "CAG Report",
+    "category": "Trust Gap",
+    "timestamp": "2026-01-15",
+    "verdict": "Low Credibility",
+    "credibility_score": 0.42
+  },
+  {
+    "id": 19,
+    "text": "Fake news from unverified blog on dam blast; official checks show natural wear.",
+    "source": "Government Fact-finding",
+    "category": "Trust Gap",
+    "timestamp": "2025-12-24",
+    "verdict": "Unverified",
+    "credibility_score": 0.38
+  },
+  {
+    "id": 20,
+    "text": "Rumor from low-trust anonymous commenter rejected; no backing from reliable outlets.",
+    "source": "Media Analysis",
+    "category": "Trust Gap",
+    "timestamp": "2025-01-10",
+    "verdict": "Low Credibility",
+    "credibility_score": 0.41
+  }
+]

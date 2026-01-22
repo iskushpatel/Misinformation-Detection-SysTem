@@ -1,0 +1,9 @@
+import os
+
+QDRANT_HOST = "localhost"
+QDRANT_PORT = 6333
+COLLECTION_NAME = "fact_check_ledger"
+
+MODEL_NAME = "all-MiniLM-L6-v2"
+SIMILARITY_THRESHOLD = 0.55  
+GEMINI_API_KEY="AIzaSyD2uWIzvRu-avQMWzi6F4np1JTYFRGxbS0"
